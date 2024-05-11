@@ -1,0 +1,5 @@
+npm create tauri-app 创建tauri
+npm run tauri dev 启动服务
+npm run tauri build 打包
+
+
